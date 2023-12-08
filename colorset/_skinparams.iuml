@@ -1,0 +1,149 @@
+skinparam dpi 100
+skinparam ArrowColor $LineColor
+skinparam DefaultFontName Meiryo
+skinparam Shadowing false
+
+skinparam CaptionFontColor $LineColor
+skinparam DefaultFontColor $LineColor
+skinparam BackgroundColor transparent
+
+skinparam Activity {
+  BarColor $LineColor
+  BorderColor $LineColor
+  BackgroundColor $LineColor
+  DiamondBorderColor $LineColor
+  DiamondBackgroundColor $LineColor
+  BarColor $LineColor
+  StartColor $LineColor
+  StopColor $LineColor
+}
+
+skinparam Actor {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Agent {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Artifact {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Boundary {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Card {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Class {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Cloud {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Component {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Control {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Database {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Entity {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam File {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Frame {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Interface {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Legend {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Node {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Package {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Partition {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Queue {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Rectangle {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Sequence {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+  BoxBorderColor $LineColor
+  BoxBackgroundColor $BackgroundColor
+  DividerBorderColor $LineColor
+  DividerBackgroundColor $BackgroundColor
+  LifeLineBorderColor $LineColor
+  LifeLineBackgroundColor $BackgroundColor
+  ReferenceBorderColor $LineColor
+  ReferenceBackgroundColor $BackgroundColor
+}
+
+skinparam Stack {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam Storage {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}
+
+skinparam SwimlaneBorderColor $LineColor
+
+skinparam Usecase {
+  BorderColor $LineColor
+  BackgroundColor $BackgroundColor
+}

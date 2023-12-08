@@ -13,7 +13,7 @@
 @startuml
 !define uml https://raw.githubusercontent.com/flatring/plantuml-stencils/main
 !include uml/colorset/ocean-blue.iuml
-!include uml/colorset/_skinparams_.iuml
+!include uml/colorset/_skinparams.iuml
 
 Alice -> WhiteRabbit : Hello!
 @enduml

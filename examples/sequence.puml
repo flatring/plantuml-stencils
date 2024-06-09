@@ -1,4 +1,4 @@
-!startuml er-example
+@startuml sequence-example
 !define uml https://raw.githubusercontent.com/flatring/plantuml-stencils/main
 !include uml/colorset/ocean-blue.iuml
 !include uml/colorset/_skinparams.iuml
